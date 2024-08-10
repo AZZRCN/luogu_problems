@@ -81,7 +81,8 @@
         "stdbool.h": "c",
         "stack": "cpp",
         "stdlib.h": "c",
-        "_mingw_print_push.h": "c"
+        "_mingw_print_push.h": "c",
+        "queue": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled",
     "editor.fontFamily": "'Cascadia Code', Consolas, Menlo, Monaco, 'Courier New', monospace",
